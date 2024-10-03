@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sushant Jadhav!
 
-I'm an Offensive Security Professional with over 2 years of experience in various domains of penetration testing and red teaming. I have a passion for discovering vulnerabilities and enhancing security measures across different platforms.
+I'm an Offensive Security Professional with over 2 years of experience in various domains of penetration testing and red teaming. I have a passion for discovering vulnerabilities and enhancing security measures across different platforms.🕵️‍♂️ 💻 🔐 🔒 👨‍💻 
 
 ## 🛠️ Skills
 
