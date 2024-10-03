@@ -8,7 +8,7 @@ I'm an Offensive Security Professional with over 2 years of experience in variou
 - **Red Teaming**: Web assets, mobile also Phishing campaigns, Social Engineering, OSINT
 - **Capture The Flag (CTF)**: Active participant and winner of several competitions
 - **Bug Bounty**: Recently started participating in bug bounty programs
-- **Certifications**: eJPTv2, CAP
+- **Certifications**: eJPTv2, ICSI-CNSS, CAP
 
 ## 🎓 Certifications
 
