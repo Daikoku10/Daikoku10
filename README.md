@@ -30,15 +30,14 @@ Here are some of the projects I've worked on: Note these are projects from clg d
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sushant-jadhav-2391161b4/)
+![linkedin-icon_square_24x24](https://github.com/user-attachments/assets/725c6b18-13c5-4728-90c1-8a67ab4bc8fc)  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sushant-jadhav-2391161b4/)
 
 
 Feel free to reach out if you want to collaborate on projects/Freelance,bug bounty or CTF!!!!!, discuss security topics, or just connect!
 
 ## 📄 Resume
 
-You can view my resume [here](https://github.com/Daikoku10/Daikoku10/blob/main/SUSHANT_JADHAV.pdf).
+![git](https://github.com/user-attachments/assets/711f5d5a-2039-406d-9ab7-f5f694dcf013) You can view my resume [here](https://github.com/Daikoku10/Daikoku10/blob/main/SUSHANT_JADHAV.pdf) 
 
----
 
 Thanks for visiting my profile! 🚀
