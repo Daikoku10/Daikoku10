@@ -25,8 +25,12 @@ Here are some of the projects I've worked on: Note these are projects from clg d
 
 ## 🏆 Achievements
 
-- Winner of [CTF Name] - [Year]
-- [Any other relevant achievements or recognitions]
+- Winner of Lets Exploit 2023 - Global RANK 1.........................................................<img src="https://github.com/user-attachments/assets/fd1f98c7-59e5-4534-b78f-d6e57e791011" width="150"/>
+- Com olho March 2024 - Rank 1....................................................................................<img src="https://github.com/user-attachments/assets/99a8447d-193c-4cf9-a1ea-aaac45effc75" width="150"/>
+- TCS Hackquest playground - Rank 7..........................................................................<img src="https://github.com/user-attachments/assets/2176869a-0407-462a-8dbc-84c983f66e61" width="150"/>
+- ISRM Cyber CUP 2022 (Top 5 Fortune 500 Healthcare) CTF - Rank 2..........                 <img src="https://github.com/user-attachments/assets/041b40d6-b10e-430d-abe8-cdb6d7df8b5a" width="150"/>
+- BEH TCS internal Global CTF Round1 - Rank 3 
+- Indian Army CTF: Qualified for L2 (Sainya Ranakshetram)
 
 ## 📫 Get in Touch
 
