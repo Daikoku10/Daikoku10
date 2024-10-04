@@ -1,6 +1,7 @@
 ---
    
-![Black Classic The Dark Places Yo](https://github.com/user-attachments/assets/dd6575b3-37e1-4fad-95fe-b443967c1d8c)
+![Black Classic The Dark Places Yo (1)](https://github.com/user-attachments/assets/23849e23-d9e7-4d2b-8a5b-d331957c7317)
+
 
 ---
 # 👋 Hi there, I'm Sushant Jadhav! aka Daikoku10
