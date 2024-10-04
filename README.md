@@ -1,7 +1,6 @@
 ---
    
-
-![Black Classic The Dark Places Youtube Thumbnail](https://github.com/user-attachments/assets/a6eae53c-d273-4637-a84f-c90127442e3c)
+![Black Classic The Dark Places Yo](https://github.com/user-attachments/assets/dd6575b3-37e1-4fad-95fe-b443967c1d8c)
 
 ---
 # 👋 Hi there, I'm Sushant Jadhav! aka Daikoku10
