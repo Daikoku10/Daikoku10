@@ -1,3 +1,9 @@
+---
+   
+
+![Black Classic The Dark Places Youtube Thumbnail](https://github.com/user-attachments/assets/a6eae53c-d273-4637-a84f-c90127442e3c)
+
+---
 # 👋 Hi there, I'm Sushant Jadhav! aka Daikoku10
 
 I'm an Offensive Security Professional with over 2 years of experience in various domains of penetration testing and red teaming. I have a passion for discovering vulnerabilities and enhancing security measures across different platforms.🕵️‍♂️ 💻 🔐 🔒 👨‍💻 
