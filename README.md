@@ -38,7 +38,7 @@ Here are some of the projects I've worked on: Note these are projects from clg d
 
 ## 📫 Get in Touch
 
-![linkedin-icon_square_24x24](https://github.com/user-attachments/assets/725c6b18-13c5-4728-90c1-8a67ab4bc8fc)  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sushant-jadhav-2391161b4/)
+![linkedin-icon_square_24x24](https://github.com/user-attachments/assets/725c6b18-13c5-4728-90c1-8a67ab4bc8fc)  LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/daikoku10/)
 
 
 Feel free to reach out if you want to collaborate on projects/Freelance,bug bounty or CTF!!!!!, discuss security topics, or just connect!
