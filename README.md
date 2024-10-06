@@ -25,7 +25,7 @@ Here are some of the projects I've worked on: Note these are projects from clg d
 
 - [Student_Micro_Loan_Management](https://github.com/Daikoku10/Student-Micro-Loan-mgt) - A secure P2P microloan management platform enabling 0% interest loans for students, connecting them with verified helpers through a trusted and transparent system with secure payment integration..
 - [Heart_Stroke_Prediction](https://github.com/Daikoku10/Heart_stroke_prediction_internship) - A machine learning project using K-Neighbors and Random Forest classifiers to predict heart stroke risk based on health data from a Kaggle dataset, with results visualized through histogram presentations for better insight..
-- [Key_Logger_smtp](https://github.com/Daikoku10/Key_logger) - This keylogger, coded in Python, logs keystrokes and processes them into a human-readable format. It sends the captured data to a specified email address using SMTP, with email credentials provided by the user (requires "less secure app access"). The keylogger continues to run in the background even if the file is deleted from the system, and can only be stopped via Task Manager.
+- [Key_Logger](https://github.com/Daikoku10/Key_logger) - This keylogger, coded in Python, logs keystrokes and processes them into a human-readable format. It sends the captured data to a specified email address using SMTP, with email credentials provided by the user (requires "less secure app access"). The keylogger continues to run in the background even if the file is deleted from the system, and can only be stopped via Task Manager.
 
 ## 🏆 Achievements
 
