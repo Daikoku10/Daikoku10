@@ -17,7 +17,7 @@ I'm an Offensive Security Professional with over 2+ years of experience in vario
 ## 🎓 Certifications
 
  
-![eJPTv2](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81522350)  ![CNSS](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28157155)    <img src="https://secops.group/wp-content/uploads/2023/01/cert-stamp-2.png" alt="CAP" width="200"/>  
+![eJPTv2](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81522350)  ![CNSS](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28157155)    <img src="https://secops.group/wp-content/uploads/2023/01/cert-stamp-2.png" alt="CAP" width="200"/>   <img src="https://github.com/user-attachments/assets/c6962c22-db9b-4883-a68d-6665ba436cd7" alt="CAP" width="200"/>
 
 ## 🌐 Projects
 
