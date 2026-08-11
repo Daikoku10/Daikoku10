@@ -1,7 +1,7 @@
 ---
 # 👋 Hi there, I'm Sushant Jadhav! aka Daikoku10
 ---
-I'm an Offensive Security Professional with over 2+ years of experience in various domains of penetration testing and red teaming. I have a passion for discovering vulnerabilities and enhancing security measures across different platforms.🕵️‍♂️ 💻 👨‍💻 
+I'm an Offensive Security Professional with over 3+ years of experience in various domains of penetration testing and red teaming. I have a passion for discovering vulnerabilities and enhancing security measures across different platforms.🕵️‍♂️ 💻 👨‍💻 
 ---
 ![Black Classic The Dark Places Yo (1)](https://github.com/user-attachments/assets/23849e23-d9e7-4d2b-8a5b-d331957c7317)
 
@@ -12,7 +12,7 @@ I'm an Offensive Security Professional with over 2+ years of experience in vario
 - **Red Teaming**: Web assets, mobile also Phishing campaigns, Social Engineering, OSINT
 - **Capture The Flag (CTF)**: Active participant and winner of several competitions
 - **Bug Bounty**: Recently started participating in bug bounty programs
-- **Certifications**: eJPTv2, ICSI-CNSS, CAP
+- **Certifications**: eJPTv2, eWPT, eWPTX, ICSI-CNSS, CAP
 
 ## 🎓 Certifications
 
